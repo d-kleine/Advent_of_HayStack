@@ -1,0 +1,9 @@
+transformers[torch,sentencepiece]
+jupyter 
+ipywidgets
+matplotlib>=3.6.0
+huggingface_hub
+scipy<2.0.0,>=1.10.0
+haystack-ai
+weaviate-haystack
+trafilatura
