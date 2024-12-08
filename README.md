@@ -4,6 +4,9 @@ This project highlights the capabilities of [Haystack](https://github.com/deepse
 
 https://haystack.deepset.ai
 
+> [!NOTE]  
+> This project is currently WIP as not all daily challenges have not been published yet.
+
 ## **Project Description**
 
 This project is a series of ten challenges designed to explore and enhance skills in using the Haystack framework for building advanced pipelines. Each challenge presents a scenario requiring the design, implementation, and optimization of pipelines using Haystack's tools and capabilities. The tasks focus on leveraging components from HayStack to solve practical problems.
