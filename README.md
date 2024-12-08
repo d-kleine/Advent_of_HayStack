@@ -31,17 +31,17 @@ This task focused on creating a Retrieval-Augmented Generation (RAG) pipeline th
 ### **Project 5: ...**
 ...
 
-### **Project 4: ...**
+### **Project 6: ...**
 ...
 
-### **Project 4: ...**
+### **Project 7: ...**
 ...
 
-### **Project 4: ...**
+### **Project 8: ...**
 ...
 
-### **Project 4: ...**
+### **Project 9: ...**
 ...
 
-### **Project 4: ...**
+### **Project 10: ...**
 ...
