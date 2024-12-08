@@ -45,3 +45,71 @@ This task focused on creating a Retrieval-Augmented Generation (RAG) pipeline th
 
 ### **Project 10: ...**
 ...
+
+## Setting Up the Project Environment on Windows or Linux
+
+Follow these steps to set up the project environment with Python and necessary tools:
+
+### **1. Install Python 3.11 with Anaconda**
+- Download the Anaconda installer from the official Anaconda website.
+- Install Anaconda following the graphical or command-line instructions for your operating system and add it to the PATH.
+- Verify the installation by running the following commands in the terminal (Linux/macOS) or Anaconda Prompt (Windows):
+
+  ```bash
+  python --version
+  ```
+
+### **2. Create and Activate a Conda Environment**
+- Create a new Conda environment named `haystack` with Python (verified for version 3.11):
+
+  ```bash
+  conda create --n haystack python=3.11
+  ```
+
+- Activate the environment:
+
+  ```bash
+  conda activate haystack
+  ```
+
+### **3. Install PyTorch with CUDA Support**
+- Ensure you have a CUDA-compatible device if using GPU acceleration.
+- Install PyTorch with CUDA (verified for version 12.1) support using pip:
+
+  ```bash
+  pip install torch --index-url https://download.pytorch.org/whl/cu121
+  ```
+
+### **4. Install Jupyter Notebook Support for VS Code**
+- Install the necessary packages to work with Jupyter notebooks in Visual Studio Code:
+
+  ```bash
+  pip install notebook jupyterlab ipykernel
+  ```
+
+- If you haven't already, install the Jupyter extension in Visual Studio Code from the Extensions Marketplace.
+
+### **5. Install Additional Dependencies**
+- Install the additional dependencies listed in a `requirements.txt` file by running:
+
+  ```bash
+  pip install -r requirements.txt
+  ```
+
+- After installing packages. open Visual Studio Code, select your Conda environment as the interpreter (*Python: Select Interpreter* from the Command Palette).
+- Open the Jupyter notebook corresponding to the specific project.
+
+### **6. Save Your OpenAI Secret Key**
+- To use OpenAI's API, you need to save your secret key securely in a configuration file.
+- Create a `config.json` file in your project directory and add the following content:
+
+  ```json
+  "sk-proj-...."
+  ```
+
+- Replace `"sk-proj-...."` with your actual OpenAI secret key, but make sure it is contained in the string `"..."`
+- Ensure this file is not shared or pushed to version control systems like Git by adding it to `.gitignore`.
+
+#### **7. Verify Setup**
+- Open Visual Studio Code, select your Conda environment as the interpreter (*Python: Select Interpreter* from the Command Palette).
+- Open the Jupyter notebook corresponding to the specific project.
