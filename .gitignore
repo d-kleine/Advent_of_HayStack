@@ -163,3 +163,4 @@ cython_debug/
 
 # custom files
 bbc-news-data.csv
+config.json
