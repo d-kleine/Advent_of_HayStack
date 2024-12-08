@@ -11,6 +11,8 @@ https://haystack.deepset.ai
 
 This project is a series of ten challenges designed to explore and enhance skills in using the Haystack framework for building advanced pipelines. Each challenge presents a scenario requiring the design, implementation, and optimization of pipelines using Haystack's tools and capabilities. The tasks focus on leveraging components from HayStack to solve practical problems.
 
+In addition to showcasing Haystack's features, the challenges explore its application in realistic environments, working with technologies such as [Weaviate](https://weaviate.io/), [AssemblyAI](https://www.assemblyai.com/), [NVIDIA](https://www.nvidia.com/en-us/ai/), [Arize](https://arize.com/), and [MongoDB](https://www.mongodb.com/), demonstrating how Haystack integrates seamlessly with these systems to create powerful, end-to-end solutions for information retrieval and natural language processing tasks.
+
 ## **Challenges**
 
 ### **Project 1: Fetching Knowledge**
