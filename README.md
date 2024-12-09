@@ -103,6 +103,7 @@ Follow these steps to set up the project environment with Python and necessary t
   pip install -r requirements.txt
   ```
 
+- The `requirements.txt` file will download the latest versions of the defined packages. Please note that this project has used `haystack-ai` package version 2.8.0 and functionalities might (have) change(d) over time.
 - After installing packages. open Visual Studio Code, select your Conda environment as the interpreter (*Python: Select Interpreter* from the Command Palette).
 - Open the Jupyter notebook corresponding to the specific project.
 
