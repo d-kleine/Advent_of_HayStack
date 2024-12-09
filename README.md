@@ -118,6 +118,6 @@ Follow these steps to set up the project environment with Python and necessary t
 - Replace `"sk-proj-...."` with your actual OpenAI secret key, but make sure it is contained in the string `"..."`
 - Ensure this file is not shared or pushed to version control systems like Git by adding it to `.gitignore`.
 
-#### **7. Verify Setup**
+### **7. Verify Setup**
 - Open Visual Studio Code, select your Conda environment as the interpreter (*Python: Select Interpreter* from the Command Palette).
 - Open the Jupyter notebook corresponding to the specific project.
