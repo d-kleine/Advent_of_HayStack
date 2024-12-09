@@ -21,7 +21,7 @@ The first challenge involved building a pipeline capable of fetching content fro
 [Notebook](./1_Advent_of_Haystack_Enhancing_Pipeline.ipynb)
 
 ### **Project 2: Creating a RAG Pipeline and Filter Information**
-This challenge involved analyzing data within a fictional context to uncover hidden information and identify the culprit behind a theft. The task emphasized using Haystack's retrieval capabilities to extract meaningful insights from provided datasets.
+This challenge focuses on utilizing the integration Weaviate, a vector database optimized for semantic search, to solve a fictional mystery. Goal is to design and implement a pipeline using Haystack and Weaviate that enables efficient retrieval of relevant information from a dataset answering the key question of the mystery.
 
 [Notebook](./2_Challenge_Haystack_Advent_Weaviate_Day.ipynb)
 
@@ -30,8 +30,10 @@ This task focused on creating a Retrieval-Augmented Generation (RAG) pipeline th
 
 [Notebook](./3_Advent_of_Haystack_Multi_Query_Retrieval.ipynb)
 
-### **Project 4: ...**
-...
+### **Project 4:  Transcribing, Summarizing, and Rewriting using AssemblyAI**
+This challenge focuses on combining the capabilities of Haystack with AssemblyAI to process audio data and transform it into meaningful text outputs. The goal is to build a pipeline that can handle the following tasks: transcribing an audio file into text, summarizing the content for simplicity, and rewriting it in a creative style tailored for a specific audience.
+
+[Notebook](./4_Advent_of_Haystack_AssemblyAI.ipynb)
 
 ### **Project 5: ...**
 ...
