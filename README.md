@@ -20,7 +20,7 @@ The first challenge involved building a pipeline capable of fetching content fro
 
 [Notebook](./01_Enhancing_Pipeline.ipynb)
 
-### **Project 2: Creating a RAG Pipeline and Filter Information**
+### **Project 2: Creating a RAG Pipeline and Filter Information using Weaviate**
 This challenge focuses on utilizing the integration Weaviate, a vector database optimized for semantic search, to solve a fictional mystery. Goal is to design and implement a pipeline using Haystack and Weaviate that enables efficient retrieval of relevant information from a dataset answering the key question of the mystery.
 
 [Notebook](./02_Weaviate.ipynb)
