@@ -1,6 +1,6 @@
 # **Advent of Haystack**
 
-This project highlights the capabilities of [Haystack](https://github.com/deepset-ai/haystack) in solving real-world problems through a set of ten unique challenges. Developed by [*deepset*](https://www.deepset.ai/), Haystack is a robust framework for building pipelines that integrate retrieval-augmented generation (RAG), metadata processing, and other advanced NLP techniques. The event takes place during December 2024, blending technical problem-solving with a festive theme.
+This project highlights the capabilities of [Haystack](https://github.com/deepset-ai/haystack) in solving real-world problems through a set of ten unique challenges. Developed by [*deepset*](https://www.deepset.ai/), Haystack is a robust framework for building pipelines that integrate retrieval-augmented generation (RAG), metadata processing, and other advanced NLP techniques. The event takes place during December 2024, blending technical problem-solving with the festive theme of Christmas.
 
 https://haystack.deepset.ai
 
