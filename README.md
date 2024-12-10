@@ -5,7 +5,7 @@ This project highlights the capabilities of [Haystack](https://github.com/deepse
 https://haystack.deepset.ai
 
 > [!NOTE]  
-> This project is currently WIP as not all daily challenges have not been published yet.
+> This project is currently WIP as not all daily challenges have been published yet.
 
 ## **Project Description**
 
