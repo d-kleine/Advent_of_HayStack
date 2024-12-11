@@ -38,8 +38,10 @@ This challenge focuses on combining the capabilities of Haystack with AssemblyAI
 
 [Notebook](./04_AssemblyAI.ipynb)
 
-### **Project 5: ...**
-...
+### **Project 5: Accelerating Development with deepset Studio**
+This project involves leveraging *deepset Studio*, a user-friendly platform for building and managing Haystack pipelines, to streamline the development of a Retrieval-Augmented Generation (RAG) pipeline. The task involves utilizing the platform's features, such as its drag-and-drop interface, pipeline templates, and deployment tools, to create an efficient indexing and query pipeline.
+
+[Notebook](./05_deepset_Cloud.ipynb)
 
 ### **Project 6: ...**
 ...
