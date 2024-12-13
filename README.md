@@ -43,8 +43,10 @@ This project involves leveraging *deepset Studio*, a user-friendly platform for 
 
 [Notebook](./05_deepset_Cloud.ipynb)
 
-### **Project 6: ...**
-...
+### **Project 6: NVIDIA NIM Integration**
+This challenge focuses on leveraging *NVIDIA Inference Microservices (NIMs)* with Haystack to build two key functionalities: task delegation optimization and multilingual document organization. The project demonstrates the practical application of NVIDIA's AI models through microservices for efficient workflow management.
+
+[Notebook](./06_NVIDIA_NIM.ipynb)
 
 ### **Project 7: ...**
 ...
