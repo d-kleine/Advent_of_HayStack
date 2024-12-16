@@ -9,3 +9,8 @@ weaviate-haystack
 trafilatura
 sentence-transformers>=3.0.0
 openpyxl
+arize-phoenix==6.1.0 
+openinference-instrumentation-haystack==0.1.13 
+httpx<0.28
+arize-phoenix-otel
+openinference-instrumentation-haystack
