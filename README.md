@@ -48,8 +48,10 @@ This challenge focuses on leveraging *NVIDIA Inference Microservices (NIMs)* wit
 
 [Notebook](./06_NVIDIA_NIM.ipynb)
 
-### **Project 7: ...**
-...
+### **Project 7: Automated Matching and Evaluation with Arize Phoenix***
+This challenge involves building an end-to-end system that automates matching and evaluation processes using advanced NLP techniques.  The project integrates Haystack for retrieval and generation, an LLM-based judge for evaluation, and Arize Phoenix for monitoring and tracing.
+
+[Notebook](./07_Arize_Phoenix.ipynb)
 
 ### **Project 8: ...**
 ...
