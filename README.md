@@ -28,7 +28,7 @@ This challenge focuses on utilizing the integration *Weaviate*, a vector databas
 
 [Notebook](./02_Weaviate.ipynb)
 
-### **2. Enhancing Retrieval with Multi-Query RAG**
+### **3. Enhancing Retrieval with Multi-Query RAG**
 This task focused on creating a Retrieval-Augmented Generation (RAG) pipeline that integrates multi-query retrieval techniques. The goal was to improve recall by retrieving highly relevant answers from external data sources, such as news feeds. Custom components were implemented to enhance the pipeline's performance.
 
 [Notebook](./03_Multi_Query_Retrieval.ipynb)
