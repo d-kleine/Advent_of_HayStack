@@ -44,22 +44,24 @@ This project involves leveraging *deepset Studio*, a user-friendly platform for 
 [Notebook](./05_deepset_Cloud.ipynb)
 
 ### **6. Integration with NVIDIA Inference Microservices**
-This challenge focuses on leveraging *NVIDIA Inference Microservices (NIMs)* with Haystack to build two key functionalities: task delegation optimization and multilingual document organization. The project demonstrates the practical application of NVIDIA's AI models through microservices for efficient workflow management.
+This challenge focuses on leveraging *NVIDIA Inference Microservices (NIMs)* with Haystack to build two key functionalities: task delegation optimization and multilingual document organization. It demonstrates the practical application of NVIDIA's AI models through microservices for efficient workflow management.
 
 [Notebook](./06_NVIDIA_NIM.ipynb)
 
 ### **7. Automated Matching and Evaluation with Arize Phoenix**
-This challenge involves building an end-to-end system that automates matching and evaluation processes using advanced NLP techniques. The project integrates Haystack for retrieval and generation, an LLM-based judge for evaluation, and *Arize Phoenix* for monitoring and tracing.
+This challenge involves building an end-to-end system that automates matching and evaluation processes using advanced NLP techniques. It integrates Haystack for retrieval and generation, an LLM-based judge for evaluation, and *Arize Phoenix* for monitoring and tracing.
 
 [Notebook](./07_Arize_Phoenix.ipynb)
 
-### **Project 8: ...**
+### **8. Building an Inventory Management Agent**
+This task demonstrates the implementation of an intelligent agent system using Haystack's experimental components, specifically designed for automated inventory management. Along with custom-built tools, the system enables real-time inventory tracking, automated price comparisons, and natural language interactions. The solution showcases how Haystack's tool-calling capabilities can be leveraged to create sophisticated AI agents that handle complex operational tasks while maintaining user-friendly interfaces.
+
+[Notebook](./08_Agents_Tools.ipynb)
+
+### **9. ...**
 ...
 
-### **Project 9: ...**
-...
-
-### **Project 10: ...**
+### **10. ...**
 ...
 
 ## Setting Up the Project Environment on Windows or Linux
