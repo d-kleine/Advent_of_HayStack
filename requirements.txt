@@ -14,3 +14,5 @@ openinference-instrumentation-haystack==0.1.13
 httpx<0.28
 arize-phoenix-otel
 openinference-instrumentation-haystack
+openai 
+duckduckgo-api-haystack
