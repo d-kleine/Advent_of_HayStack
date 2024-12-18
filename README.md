@@ -18,38 +18,38 @@ In addition to showcasing Haystack's features, the challenges explore its applic
 
 ## **Challenges**
 
-### **Project 1: Fetching Knowledge**
+### **1. Fetching Knowledge**
 The first challenge involved building a pipeline capable of fetching content from URLs, processing it for relevance, and enabling a seamless Q&A system. The objective was to configure the pipeline to identify the ten most relevant chunks of information from the content and ensure efficient query handling.
 
 [Notebook](./01_Enhancing_Pipeline.ipynb)
 
-### **Project 2: Creating a RAG Pipeline and Filter Information using Weaviate**
-This challenge focuses on utilizing the integration Weaviate, a vector database optimized for semantic search, to solve a fictional mystery. Goal is to design and implement a pipeline using Haystack and Weaviate that enables efficient retrieval of relevant information from a dataset answering the key question of the mystery.
+### **2. Creating a RAG Pipeline and Filter Information using Weaviate**
+This challenge focuses on utilizing the integration *Weaviate*, a vector database optimized for semantic search, to solve a fictional mystery. Goal is to design and implement a pipeline using Haystack and *Weaviate* that enables efficient retrieval of relevant information from a dataset answering the key question of the mystery.
 
 [Notebook](./02_Weaviate.ipynb)
 
-### **Project 3: Enhancing Retrieval with Multi-Query RAG**
+### **2. Enhancing Retrieval with Multi-Query RAG**
 This task focused on creating a Retrieval-Augmented Generation (RAG) pipeline that integrates multi-query retrieval techniques. The goal was to improve recall by retrieving highly relevant answers from external data sources, such as news feeds. Custom components were implemented to enhance the pipeline's performance.
 
 [Notebook](./03_Multi_Query_Retrieval.ipynb)
 
-### **Project 4:  Transcribing, Summarizing, and Rewriting using AssemblyAI**
+### **4. Transcribing, Summarizing, and Rewriting using AssemblyAI**
 This challenge focuses on combining the capabilities of Haystack with AssemblyAI to process audio data and transform it into meaningful text outputs. The goal is to build a pipeline that can handle the following tasks: transcribing an audio file into text, summarizing the content for simplicity, and rewriting it in a creative style tailored for a specific audience.
 
 [Notebook](./04_AssemblyAI.ipynb)
 
-### **Project 5: Accelerating Development with deepset Studio**
+### **5. Accelerating Development with deepset Studio**
 This project involves leveraging *deepset Studio*, a user-friendly platform for building and managing Haystack pipelines, to streamline the development of a Retrieval-Augmented Generation (RAG) pipeline. The task involves utilizing the platform's features, such as its drag-and-drop interface, pipeline templates, and deployment tools, to create an efficient indexing and query pipeline.
 
 [Notebook](./05_deepset_Cloud.ipynb)
 
-### **Project 6: NVIDIA NIM Integration**
+### **6. NVIDIA NIM Integration**
 This challenge focuses on leveraging *NVIDIA Inference Microservices (NIMs)* with Haystack to build two key functionalities: task delegation optimization and multilingual document organization. The project demonstrates the practical application of NVIDIA's AI models through microservices for efficient workflow management.
 
 [Notebook](./06_NVIDIA_NIM.ipynb)
 
-### **Project 7: Automated Matching and Evaluation with Arize Phoenix***
-This challenge involves building an end-to-end system that automates matching and evaluation processes using advanced NLP techniques.  The project integrates Haystack for retrieval and generation, an LLM-based judge for evaluation, and Arize Phoenix for monitoring and tracing.
+### **7. Automated Matching and Evaluation with Arize Phoenix**
+This challenge involves building an end-to-end system that automates matching and evaluation processes using advanced NLP techniques. The project integrates Haystack for retrieval and generation, an LLM-based judge for evaluation, and *Arize Phoenix* for monitoring and tracing.
 
 [Notebook](./07_Arize_Phoenix.ipynb)
 
