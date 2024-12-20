@@ -58,8 +58,10 @@ This task demonstrates the implementation of an intelligent agent system using H
 
 [Notebook](./08_Agents_Tools.ipynb)
 
-### **9. ...**
-...
+### **9. Self-Reflecting Recommendation Agent with MongoDB Integration**
+This project demonstrates the implementation of a self-reflecting AI agent using Haystack's RAG capabilities integrated with *MongoDB Atlas* vector search. The system combines advanced retrieval techniques with recursive self-evaluation to optimize recommendations based on multiple criteria. By leveraging MongoDB's vector search capabilities and Haystack's RAG pipeline architecture, the solution enables semantic matching while incorporating budget constraints, age appropriateness, and preference optimization. The implementation showcases how Haystack can be used to create sophisticated recommendation systems that continuously improve their suggestions through self-reflection mechanisms.
+
+[Notebook](./09_MongoDB.ipynb)
 
 ### **10. ...**
 ...
