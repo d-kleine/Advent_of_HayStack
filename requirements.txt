@@ -16,3 +16,7 @@ arize-phoenix-otel
 openinference-instrumentation-haystack
 openai 
 duckduckgo-api-haystack
+mongodb-atlas-haystack 
+tiktoken 
+datasets 
+colorama
