@@ -20,3 +20,4 @@ mongodb-atlas-haystack
 tiktoken 
 datasets 
 colorama
+pymongo
