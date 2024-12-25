@@ -4,9 +4,6 @@ This project highlights the capabilities of [Haystack](https://github.com/deepse
 
 https://haystack.deepset.ai
 
-> [!NOTE]  
-> This project is currently WIP as not all daily challenges have been published yet.
-
 ## **Project Description**
 
 This project is a series of ten challenges designed to explore and enhance skills in using the Haystack framework for building advanced pipelines. Each challenge presents a scenario requiring the design, implementation, and optimization of pipelines using Haystack's tools and capabilities. The tasks focus on leveraging components from HayStack to solve practical problems.
@@ -63,8 +60,10 @@ This project demonstrates the implementation of a self-reflecting AI agent using
 
 [Notebook](./09_MongoDB.ipynb)
 
-### **10. ...**
-...
+### **10. RAG Pipeline Evaluation**
+This challenge demonstrates the implementation of systematic evaluation methodologies for RAG pipelines using Haystack's EvaluationHarness. By integrating specialized evaluators for faithfulness, context relevance, and overall performance metrics, the system enables automated assessment and comparison of different pipeline configurations. The implementation showcases how Haystack's evaluation framework can be used to measure and optimize RAG pipeline performance in production environments.
+
+[Notebook](./10_Evaluation_Harness.ipynb)
 
 ## Setting Up the Project Environment on Windows or Linux
 
