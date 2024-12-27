@@ -16,7 +16,7 @@ In addition to showcasing Haystack's features, the challenges explore its applic
 ## **Challenges**
 
 ### **1. Fetching Knowledge**
-The first challenge involved building a pipeline capable of fetching content from URLs, processing it for relevance, and enabling a seamless Q&A system. The objective was to configure the pipeline to identify the ten most relevant chunks of information from the content and ensure efficient query handling.
+The first challenge involves building a pipeline capable of fetching content from URLs, processing it for relevance, and enabling a seamless Q&A system. The objective was to configure the pipeline to identify the ten most relevant chunks of information from the content and ensure efficient query handling.
 
 [Notebook](./01_Enhancing_Pipeline.ipynb)
 
@@ -26,12 +26,12 @@ This challenge focuses on utilizing the integration *Weaviate*, a vector databas
 [Notebook](./02_Weaviate.ipynb)
 
 ### **3. Enhancing Retrieval with Multi-Query RAG**
-This task focused on creating a Retrieval-Augmented Generation (RAG) pipeline that integrates multi-query retrieval techniques. The goal was to improve recall by retrieving highly relevant answers from external data sources, such as news feeds. Custom components were implemented to enhance the pipeline's performance.
+This task focuses on creating a Retrieval-Augmented Generation (RAG) pipeline that integrates multi-query retrieval techniques. The goal was to improve recall by retrieving highly relevant answers from external data sources, such as news feeds. Custom components were implemented to enhance the pipeline's performance.
 
 [Notebook](./03_Multi_Query_Retrieval.ipynb)
 
 ### **4. Transcribing, Summarizing, and Rewriting using AssemblyAI**
-This challenge focuses on combining the capabilities of Haystack with AssemblyAI to process audio data and transform it into meaningful text outputs. The goal is to build a pipeline that can handle the following tasks: transcribing an audio file into text, summarizing the content for simplicity, and rewriting it in a creative style tailored for a specific audience.
+This challenge concentrates on combining the capabilities of Haystack with AssemblyAI to process audio data and transform it into meaningful text outputs. The goal is to build a pipeline that can handle the following tasks: transcribing an audio file into text, summarizing the content for simplicity, and rewriting it in a creative style tailored for a specific audience.
 
 [Notebook](./04_AssemblyAI.ipynb)
 
